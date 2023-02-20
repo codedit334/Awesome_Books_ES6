@@ -1,8 +1,8 @@
 {
-  "name": "capstone_one.github.io",
+  "name": "awesome",
   "type": "module",
   "version": "1.0.0",
-  "description": "My module one capstone",
+  "description": "Awesome Books ES6",
   "main": "home.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
