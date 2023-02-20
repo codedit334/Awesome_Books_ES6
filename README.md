@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Module 2: Awesome Books</b></h3>
+  <h3><b>Module 2: Awesome Books E6</b></h3>
 
 </div>
 
@@ -32,9 +32,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Awesome Books <a name="about-project"></a>
+# 📖 Awesome Books ES6 <a name="about-project"></a>
 
-Awesome Books is a simple web app that stores books.
+Awesome Books ES6 is a simple web app that stores books, it uses modular architechture.
 
 ## 🛠 Built With <a name="built-with"></a>
 HTML, CSS, NodeJS
@@ -59,17 +59,15 @@ HTML, CSS, NodeJS
   <ul>
     <li><a href="https://webhint.io/">Webhint</a></li>
     <li><a href="https://stylelint.io/">Stylelint</a></li>
+    <li><a href="https://eslint.org/">ESLint</a></li>
   </ul>
 </details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-- Refactoring JS code to use classes.
-  - Use JavaScript classes instead of objects and arrays.
-  
-- Styled UI.
+- Refactoring JS architecture.
+  - Use Modules.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,7 +75,7 @@ HTML, CSS, NodeJS
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Link](https://codedit334.github.io/Modude2-Awsome-Books/) to the live project.
+- [Link](https://codedit334.github.io/Awesome_Books_ES6/) to the live project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,13 +100,13 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 ```sh
   cd my-folder
-  git clone git@github.com/codedit334/Module2-Awsome-Books.git
+  git clone git@github.com/codedit334/Awesome_Books_ES6.git
 ```
 ### Install
 
 Install this project with:
 ```sh
-  cd Module2-Awsome-Books
+  cd Awesome_Books_ES6
   npm install
 ```
 
@@ -150,22 +148,12 @@ Deployed using Github Pages.
 - Twitter: [@oussedit](https://twitter.com/oussedit)
 - LinkedIn: [Oussama Elabdioui](https://www.linkedin.com/in/oussama-elabdioui-4677a41b6/)
 
-👤 Author2
-
-- GitHub: [@ZewdieMc](https://github.com/ZewdieMc)
-- Twitter: [@HabtieZewdie](https://twitter.com/HabtieZewdie)
-- LinkedIn: [Zewdie Habtie](https://linkedin.com/in/zewdie-habtie-sisay-947153172)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Implement Navigation bar.
-- Three content sections:
-  - Books list.
-  - Add book form.
-  - Contact info.
+- Rebuild the website using React.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -204,13 +192,18 @@ I would like to thank Microverse for offering me this opportunity to learn, and 
 
   - The use of linters helps to diagnose and fix technical issues, also linters can help teams achieve a more readable and consistent style, through the enforcement of its rules.
 
+
+-Why use modular programming ?
+
+  - Modular programming usually makes your code easier to read because it means separating it into functions that each only deal with one aspect of the overall functionality.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/codedit334/Modude2-Awsome-Books/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/codedit334/Awesome_Books_ES6/blob/main/LICENSE) licensed.
 (Check the LICENSE file)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

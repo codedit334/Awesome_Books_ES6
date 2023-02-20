@@ -1,5 +1,6 @@
 {
   "name": "capstone_one.github.io",
+  "type": "module",
   "version": "1.0.0",
   "description": "My module one capstone",
   "main": "home.js",
@@ -8,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/QueenterJuma/Capstone_one.github.io.git"
+    "url": "git+https://github.com/codedit334/Awesome_Books_ES6.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/QueenterJuma/Capstone_one.github.io/issues"
+    "url": "https://github.com/codedit334/Awesome_Books_ES6/issues"
   },
-  "homepage": "https://github.com/QueenterJuma/Capstone_one.github.io#readme",
+  "homepage": "https://github.com/codedit334/Awesome_Books_ES6#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
@@ -27,5 +28,8 @@
     "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",
     "stylelint-scss": "^3.21.0"
+  },
+  "dependencies": {
+    "luxon": "^3.2.1"
   }
 }
