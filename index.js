@@ -1,7 +1,7 @@
 /* eslint max-classes-per-file: ["error", 2] */
 import UI from './Modules/UI.js';
 import singlePageAppDisplay from './Modules/SPA.js';
-import { DateTime } from './node_modules/luxon/src/luxon.js';
+import { DateTime } from './Modules/luxon/src/luxon.js';
 
 // Single Page App
 const navList = document.querySelector('.nav-list');
